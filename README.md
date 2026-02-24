@@ -19,7 +19,7 @@ This Fusion 360 add-in utilizes the Fusion 360 API to create parameterized Genev
 - Saves the most recent parameters
 
 ## Installation
-1) Download the folder in this repository
+1) Download the folder in this repository by clicking the green code button, downloading the zip file, and then extracting the `Create_Geneva_Gear` folder.
 2) In Fusion 360, navigate to the Utilities tab and select "Scripts and Add-Ins."
 3) Select the + sign on the top and select "script or add-in from device."
 4) Select this folder.
