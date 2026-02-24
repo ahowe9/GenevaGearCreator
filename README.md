@@ -6,7 +6,7 @@
 This Fusion 360 add-in utilizes the Fusion 360 API to create parameterized Geneva gears.
 
 ## Screenshot
-![Geneva Gear GUI]()
+![Geneva Gear GUI](/pictures/GenevaGearCreator.png)
 ## Features
 - Creates a pair of Geneva gears based on six parameters:
     - Driven gear radius
