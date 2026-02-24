@@ -1,8 +1,7 @@
 # Variable Geneva Gear Add On
 # Author: Aaron Howe
-# Date: x/xx/2026
-# Description: This script creates a solid model of a Geneva Gear that can be varried.
-# Acknowledgements: I used this page https://www.instructables.com/Make-Geneva-Wheels-of-Any-Size-in-a-Easier-Way/ for steps on constructing a geneva gear as well as the Fusion 360 API manual and AI tools for the debugging process.
+# Date: 2/23/2026
+# Description: This script creates a solid model of a Geneva Gear that can be varied.
 
 import adsk.core, adsk.fusion, traceback
 import json
@@ -41,7 +40,7 @@ def run(context):
          timeline = design.timeline
          timelineStart = timeline.count
          
-         
+
          # Math for the gears
 
          # Compute angle using taylor series
